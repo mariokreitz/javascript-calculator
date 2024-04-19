@@ -1,6 +1,6 @@
 # JavaScript Calculator
 
-![JavaScript Calculator](https://via.placeholder.com/800x400)
+![JavaScript Calculator](https://raw.githubusercontent.com/mariokreitz/javascript-calculator/main/src/assets/calc_cover.png)
 
 Dieses Projekt ist Teil der Zertifizierungsvoraussetzungen für das "Front End Development Libraries" Modul auf [freeCodeCamp.org](https://www.freecodecamp.org/).
 

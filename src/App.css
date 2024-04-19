@@ -55,6 +55,7 @@
 	border: none;
 	font-weight: bold;
 	font-size: 1rem;
+	cursor: pointer;
 }
 .numpad-container > button:active {
 	transform: scale(0.95) !important;
@@ -120,6 +121,7 @@
 	font-size: 1rem;
 	border-radius: 50px;
 	background-color: #363636;
+	cursor: pointer;
 }
 #decimal {
 	background-color: #363636;

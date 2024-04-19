@@ -1,8 +1,45 @@
-# React + Vite
+# JavaScript Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![JavaScript Calculator](https://via.placeholder.com/800x400)
 
-Currently, two official plugins are available:
+Dieses Projekt ist Teil der Zertifizierungsvoraussetzungen für das "Front End Development Libraries" Modul auf [freeCodeCamp.org](https://www.freecodecamp.org/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Beschreibung
+
+Dies ist ein einfacher Taschenrechner, der mit JavaScript und React entwickelt wurde. Es kann grundlegende mathematische Operationen wie Addition, Subtraktion, Multiplikation und Division mehrfach ausführen.
+
+## Funktionen
+
+- Führt grundlegende mathematische Operationen aus.
+- Zeigt das Ergebnis sofort an.
+- Reagiert auf Benutzerinteraktionen in Echtzeit.
+
+## Verwendung
+
+Um dieses Projekt lokal auszuführen, folge diesen Schritten:
+
+1. Klone dieses Repository auf deinen Computer.
+2. Navigiere in das Projektverzeichnis.
+3. Installiere die Abhängigkeiten mit `npm install`.
+4. Starte die Entwicklungsserver mit `npm run dev`.
+
+```bash
+git clone https://github.com/mariokreitz/javascript-calculator.git
+cd javascript-calculator
+npm install
+npm run dev
+```
+
+## Technologien
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Autor
+
+Dieses Projekt wurde mit ❤️ von [Mario Kreitz](https://github.com/mariokreitz) erstellt.
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT Lizenz lizenziert. Weitere Informationen findest du in der [LICENSE](LICENSE) Datei.

@@ -1,4 +1,4 @@
-# JavaScript Calculator
+# JavaScript Calculator [![Netlify Status](https://api.netlify.com/api/v1/badges/eb9b52bc-cb38-4cf0-af77-1f352c118ee9/deploy-status)](https://app.netlify.com/sites/vite-reactjs-calculator/deploys)
 
 ![JavaScript Calculator](https://raw.githubusercontent.com/mariokreitz/javascript-calculator/main/src/assets/calc_cover.png)
 
